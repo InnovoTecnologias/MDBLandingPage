@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDBLandingPage", "MDBLandingPage\MDBLandingPage.csproj", "{BA87283B-D0AB-4709-A70F-2763A187B19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA87283B-D0AB-4709-A70F-2763A187B19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA87283B-D0AB-4709-A70F-2763A187B19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA87283B-D0AB-4709-A70F-2763A187B19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA87283B-D0AB-4709-A70F-2763A187B19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B02AE347-3334-4B70-9A75-DD558D469B3D}
+	EndGlobalSection
+EndGlobal
